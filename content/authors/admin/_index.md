@@ -1,8 +1,8 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+title: Marcus Alexander
+role: ""
+avatar_filename: marcus_face_pic_homepage.jpg
+bio: Yale network scientist and biologist, currently pursuing medicine and genomics.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
