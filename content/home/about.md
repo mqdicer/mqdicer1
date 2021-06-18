@@ -1,21 +1,12 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: about-bio
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
 ---
+I work as a research scientist in the [Human Nature Lab](https://humannaturelab.net/), directed by [Nicholas A. Christakis](https://nicholaschristakis.net/) at the [Yale Institute for Network Science](https://yins.yale.edu/). We study biology of human sociality using network science, population genetics, behavioral experiments, and field randomized controlled trials.
+
+I am also studying to become a physician at the [Frank H. Netter MD School of Medicine](https://www.qu.edu/schools/medicine/), where I co-founded the [Genomics and Personalized Medicine Interest Group](https://netgene.ghost.io/).
