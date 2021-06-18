@@ -26,17 +26,29 @@ social:
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
+  - name: Yale University
+    url: https://www.yale.edu/
+  - name: Harvard University
+    url: https://www.harvard.edu/
+  - name: University of Oxford
+    url: https://ox.a.cuk
+  - url: https://www.qu.edu/schools/medicine/
+    name: Frank H. Netter MD School of Medicine
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: BA
+      institution: Yale University
+      year: ""
+    - course: MPhil
+      institution: University of Oxford
+      year: ""
+    - course: PhD
+      institution: Harvard University
+      year: ""
+    - course: Postdoc research
       institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MD Class of 2024
+      institution: Frank H. Netter MD School of Medicine
 email: ""
 superuser: true
 highlight_name: false
