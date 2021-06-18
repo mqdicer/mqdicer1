@@ -4,6 +4,7 @@ abstract: >-
 
   Recent research on metabolic changes that accompany oncogenesis offer opportunities for improved tumor classification and prognosis based on molecular profiling. Gene expression data can be used as a blueprint to reconstruct metabolic activity and identify predictors of patient survival. No previous study has estimated patient survival probability as a function of metabolic reaction activity across the entire spectrum of tumor tissue types.
 
+
   Methods:
 
   Cancer gene expression data from 5,980 donors spanning 23 tissue types was collected from 19 studies of the The Cancer Genome Atlas (TCGA), including patients' survival time, sex and age at diagnosis. Expression was normalized to transcripts per million (TPM). Human Metabolic Reaction core gene annotation (HMRcore) was used to select genes involved in metabolic pathways, and metabolic reaction activity scores were estimated using relative expression of enzyme subunits and enzyme isoforms. K-means clustering was used to classify tumors based on differentially regulated metabolic reactions, followed by Kaplan-Meier and Cox proportional hazard estimators of patient survival probabilities. Metabolic pathway reconstruction was performed using the MaREA pipeline, and upregulated and downregulated reactions in metabolic pathways were visualized. All analysis was done using R and Galaxy.
