@@ -1,5 +1,5 @@
 ---
-widget: home-section wg-hero dark
+widget: hero
 widget_id: blank-banner
 headless: true
 weight: 10
