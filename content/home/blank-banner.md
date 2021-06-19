@@ -12,12 +12,3 @@ design:
     image_darken: 0
     image: image.jpeg
 ---
-#<span style="color:white">Human Nature Lab</span>.
-cta:
-  url: 'https://wowchemy.com'
-  label: Get Started
-  icon_pack: fas
-  icon: download
-cta_alt:
-  url: 'https://wowchemy.com'
-  label: View Documentation
