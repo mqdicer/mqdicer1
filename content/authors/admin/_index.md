@@ -24,31 +24,27 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Human Nature Lab
+    url: https://humannaturelab.net
+  - name: Yale Institute for Network Science
+    url: https://yins.yale.edu
   - name: Yale University
     url: https://www.yale.edu/
-  - name: Harvard University
-    url: https://www.harvard.edu/
-  - name: University of Oxford
-    url: https://ox.a.cuk
-  - url: https://www.qu.edu/schools/medicine/
-    name: Frank H. Netter MD School of Medicine
 education:
   courses:
-    - course: BA
-      institution: Yale University
+    - course: BA, Yale University
+      institution: " "
       year: ""
-    - course: MPhil
-      institution: University of Oxford
+    - course: MPhil, University of Oxford
+      institution: " "
       year: ""
-    - course: PhD
-      institution: Harvard University
+    - course: PhD, Harvard University
+      institution: " "
       year: ""
-    - course: Postdoc research
-      institution: Stanford University
-    - course: MD Class of 2024
-      institution: Frank H. Netter MD School of Medicine
+    - course: Postdoc research, Stanford University
+      institution: " "
+    - course: MD Class of 2024, Frank H. Netter MD School of Medicine
+      institution: " "
 email: ""
 superuser: true
 highlight_name: false
