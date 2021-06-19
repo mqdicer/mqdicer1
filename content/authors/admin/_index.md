@@ -1,7 +1,7 @@
 ---
 title: Marcus Alexander
 role: ""
-avatar_filename: marcus_face_pic_homepage.jpg
+avatar_filename: avatar.jpg
 bio: Yale network scientist and biologist, currently pursuing medicine and genomics.
 interests:
   - Computational Genomics
