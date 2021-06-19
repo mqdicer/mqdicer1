@@ -3,7 +3,7 @@ widget: hero
 widget_id: blank-banner
 headless: true
 weight: 10
-title: Human Nature Lab
+title: ""
 active: true
 design:
   columns: "2"
@@ -12,3 +12,4 @@ design:
     image_darken: 0
     image: image.jpeg
 ---
+#<span style="color:white">Human Nature Lab</span>.
