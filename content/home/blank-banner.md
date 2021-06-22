@@ -17,8 +17,8 @@ design:
     gradient_angle: 0
 #    gradient_start: 'rgb(224,223,255)'
 #    gradient_end: 'rgb(153,238,255)'
-    gradient_start: '#66ffff'
-    gradient_end: '#000066'
+    gradient_start: '#000066'
+    gradient_end: '#66ffff'
     text_color_light: false
     
 cta:
@@ -29,10 +29,8 @@ cta:
 cta_alt:
   url: 'https://yins.yale.edu'
   label: Visit Yale Institute for Network Science
-cta_alt:
   url: 'https://seas.yale.edu'
   label: Visit Yale Engineering
-cta_alt:
   url: 'https://netgene.ghost.io'
   label: Visit Netgene
   
