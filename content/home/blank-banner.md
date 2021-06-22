@@ -15,8 +15,10 @@ hero_media: 'village2.png'
 design:
   background:
     gradient_angle: 0
-    gradient_start: 'rgb(224,223,255)'
-    gradient_end: 'rgb(153,238,255)'
+#    gradient_start: 'rgb(224,223,255)'
+#    gradient_end: 'rgb(153,238,255)'
+    gradient_start: '#66ffff'
+    gradient_end: '#000066'
     text_color_light: false
     
 cta:
