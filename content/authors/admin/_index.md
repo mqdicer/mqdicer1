@@ -18,13 +18,10 @@ social:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=WrRcc7wAAAAJ&hl
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/mdicer/
 organizations:
   - name: Human Nature Lab
     url: https://humannaturelab.net
