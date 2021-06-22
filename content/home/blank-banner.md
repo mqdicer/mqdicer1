@@ -34,8 +34,7 @@ cta_alt:
   url: 'https://netgene.ghost.io'
   label: Visit Netgene
   
-  © {year} Me
-# design:
+ # design:
 #  columns: "2"
 #  background:
 #    text_color_light: false
