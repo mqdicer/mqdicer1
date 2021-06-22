@@ -3,10 +3,10 @@ widget: hero
 widget_id: blank-banner
 headless: true
 weight: 10
-title: ""
+title: "Human Nature Lab"
 active: true
 # Hero image (optional). Enter filename of an image in the assets/media/ folder.
-hero_media: 'image.jpeg'
+hero_media: 'village2.png'
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
