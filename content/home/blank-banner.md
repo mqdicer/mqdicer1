@@ -12,14 +12,12 @@ hero_media: 'village2.png'
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
 #   Remove a link/note by deleting a cta/note block.
 
-design:
-  background:
-    gradient_angle: 0
+# design:
+#  background:
+#    gradient_angle: 0
 #    gradient_start: 'rgb(224,223,255)'
 #    gradient_end: 'rgb(153,238,255)'
-    gradient_start: '#000066'
-    gradient_end: '#66ffff'
-    text_color_light: false
+#    text_color_light: false
     
 cta:
   url: 'https://humannaturelab.net'
@@ -29,10 +27,6 @@ cta:
 cta_alt:
   url: 'https://yins.yale.edu'
   label: Visit Yale Institute for Network Science
-  url: 'https://seas.yale.edu'
-  label: Visit Yale Engineering
-  url: 'https://netgene.ghost.io'
-  label: Visit Netgene
   
  # design:
 #  columns: "2"
