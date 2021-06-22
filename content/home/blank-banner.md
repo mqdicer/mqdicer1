@@ -27,7 +27,12 @@ cta:
 cta_alt:
   url: 'https://yins.yale.edu'
   label: Visit Yale Institute for Network Science
-  
+cta_alt:
+  url: 'https://seas.yale.edu'
+  label: Visit Yale Engineering
+cta_alt:
+  url: 'https://netgene.ghost.io'
+  label: Visit Netgene
   
   © {year} Me
 # design:
