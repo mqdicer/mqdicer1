@@ -19,3 +19,6 @@ design:
     gradient_end: "#f9f0f0"
 hero_media: village2.png
 ---
+Genomics research: computational genomics, microbiome metagenomics, single-cell genomics, tumor stem cells, epigenomics
+
+Public health: RCTs, field interventions, laboratory and online behavioral experiments
