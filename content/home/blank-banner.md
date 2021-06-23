@@ -19,6 +19,4 @@ design:
     gradient_end: "#f9f0f0"
 hero_media: village2.png
 ---
-Genomics research: computational genomics, microbiome metagenomics, single-cell genomics, tumor stem cells, epigenomics
-
-Public health: RCTs, field interventions, laboratory and online behavioral experiments
+I work as a research scientist in the [Human Nature Lab](https://humannaturelab.net), directed by [Nicholas A. Christakis](https://nicholaschristakis.net) at the [Yale Institute for Network Science](https://yins.yale.edu). We study biology of human sociality using network science, population genetics, behavioral experiments, and field randomized controlled trials
