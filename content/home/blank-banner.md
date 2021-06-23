@@ -15,7 +15,7 @@ cta_alt:
   label: Visit Yale Institute for Network Science
 design:
   background:
-    gradient_start: "#d4084d"
+    gradient_start: rgba(212, 8, 77, 0.65)
     gradient_end: rgba(3, 4, 86, 0.98)
     text_color_light: true
 hero_media: village2.png
