@@ -20,4 +20,4 @@ design:
     text_color_light: true
 hero_media: village2.png
 ---
-I work as a research scientist in the [Human Nature Lab](https://humannaturelab.net), directed by [Nicholas A. Christakis](https://nicholaschristakis.net) at the [Yale Institute for Network Science](https://yins.yale.edu). We study biology of human sociality using network science, population genetics, behavioral experiments, and field randomized controlled trials
+I work as a scientist in the [Human Nature Lab](https://humannaturelab.net), directed by [Nicholas A. Christakis](http://nicholaschristakis.net/) [@Yale](https://seas.yale.edu). The lab studies biology of human sociality using network science, population genetics, behavioral experiments, and field randomized controlled trials
