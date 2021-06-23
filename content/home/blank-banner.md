@@ -15,8 +15,9 @@ cta_alt:
   label: Visit Yale Institute for Network Science
 design:
   background:
-    gradient_start: "#43a6e6"
-    gradient_end: "#f9f0f0"
+    gradient_start: "#0b0881"
+    gradient_end: rgba(247, 12, 12, 0.55)
+    text_color_light: true
 hero_media: village2.png
 ---
 I work as a research scientist in the [Human Nature Lab](https://humannaturelab.net), directed by [Nicholas A. Christakis](https://nicholaschristakis.net) at the [Yale Institute for Network Science](https://yins.yale.edu). We study biology of human sociality using network science, population genetics, behavioral experiments, and field randomized controlled trials
