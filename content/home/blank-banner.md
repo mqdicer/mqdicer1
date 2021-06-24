@@ -16,7 +16,7 @@ cta_alt:
 design:
   background:
     gradient_start: "#0d324d"
-    gradient_end: "7f5a83"
+    gradient_end: "#7f5a83"
 
 #    gradient_start: "#d40872"
 #    gradient_end: rgba(3, 4, 86, 0.98)
