@@ -15,11 +15,11 @@ cta_alt:
   label: Visit Yale Institute for Network Science
 design:
   background:
-    gradient_start: "#040000"
-    gradient_end: "#8c0202"
+    gradient_start: ""
+    gradient_end: ""
     text_color_light: true
     image: ""
-    color: "#080000"
-hero_media: village2.png
+    color: "#000000"
+hero_media:
 ---
 I work as a scientist in the [Human Nature Lab](https://humannaturelab.net), directed by [Nicholas A. Christakis](http://nicholaschristakis.net/) [@Yale](https://seas.yale.edu).
